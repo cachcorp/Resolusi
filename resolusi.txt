@@ -1,0 +1,3 @@
+Resolusi
+Mempelajari dart flutter
+Mempelajari Git dan Github
